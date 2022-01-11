@@ -5,9 +5,7 @@ Hackintosh on Asrock B75M
 ![Support-status](https://img.shields.io/badge/Support-YES-Green)
 ![BigSur-support](https://img.shields.io/badge/BigSur-YES-Green)
 
-<img align="right" src="https://user-images.githubusercontent.com/54585187/148904796-25a4d0e9-6727-4dc2-b3b9-2b9c4aa4f4d8.png" alt="Critter" width="470">
-<img align="right" src="https://user-images.githubusercontent.com/54585187/148907253-f65a10df-670a-4565-87de-a79ed874da3b.png" alt="Critter" width="470">
-<img align="right" src="https://user-images.githubusercontent.com/54585187/148907482-fca8b513-3151-4279-af17-7f832585d809.png" alt="Critter" width="450">
+
 
 Hackintosh| Specs 
 :---:| :---:
@@ -18,6 +16,10 @@ GPU | HIS RX 560 (Polaris 21XT with Sapphire vbios)
 Audio | ALC662
 Ethernet | Realtek RTL8100
 Bluetooth | USB BTA-403
+
+<img align="right" src="https://user-images.githubusercontent.com/54585187/148904796-25a4d0e9-6727-4dc2-b3b9-2b9c4aa4f4d8.png" alt="Critter" width="470">
+<img align="right" src="https://user-images.githubusercontent.com/54585187/148907253-f65a10df-670a-4565-87de-a79ed874da3b.png" alt="Critter" width="470">
+<img align="right" src="https://user-images.githubusercontent.com/54585187/148907482-fca8b513-3151-4279-af17-7f832585d809.png" alt="Critter" width="450">
 
 ## Working
 - Native Power Management
